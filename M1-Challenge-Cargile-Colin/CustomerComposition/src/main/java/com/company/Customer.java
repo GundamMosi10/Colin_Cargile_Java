@@ -86,23 +86,6 @@ public class Customer {
         isARewardsMember = ARewardsMember;
     }
 
-//    public static void Display() {
-//        String street1 = String.valueOf("123 Private Street");
-//        String street2 = null;
-//        String city = String.valueOf("Los Angeles");
-//        String state = String.valueOf("California");
-//        String zip = String.valueOf(10010);
-//
-//        System.out.println(street1);
-//        System.out.println(city);
-//        System.out.println(state);
-//        System.out.println(zip);
-//    }
-//
-//    public static void main(String[] args) {
-//        Display();
-//    }
-
     @Override
     public String toString() {
         return "Customer{" +
